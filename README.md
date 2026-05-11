@@ -132,14 +132,16 @@ TypeScript • React.js • Dashboard Analytics
 
 # 📈 GitHub Stats
 
-![Arijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arijeet-Kumar-Das&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arijeet-Kumar-Das&show_icons=true&theme=tokyonight" />
+</p>
 ---
 
 # 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijeet-Kumar-Das&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijeet-Kumar-Das&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 # ⚡ Fun Fact
