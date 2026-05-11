@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arijeet Kumar Das</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Building+Scalable+AI+Applications;React+%7C+Node.js+%7C+FastAPI+%7C+RAG;Always+Learning+New+Things" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Building+Scalable+AI+Applications;React+%7C+Node.js+%7C+FastAPI+%7C+RAG;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  MCA Student @ B.M.S College of Engineering • Full-Stack Developer • AI/ML Enthusiast
+  MCA Student @ B.M.S College of Engineering • Full-Stack Developer • Backend & System Design Enthusiast • AI/ML Enthusiast
 </p>
 
 <p align="center">
@@ -29,6 +29,7 @@
 - 🎓 MCA Student at **B.M.S College of Engineering**
 - 💻 Full-stack developer focused on scalable web applications
 - 🤖 Passionate about AI systems, RAG pipelines, NLP, and SaaS products
+- ⚙️ Interested in scalable backend systems, APIs, databases, and modern web architectures
 - 🌱 Currently exploring advanced AI engineering and production-grade architectures
 - 📍 Bengaluru, India
 
