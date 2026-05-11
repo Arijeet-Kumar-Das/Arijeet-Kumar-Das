@@ -1,100 +1,101 @@
-# Hi 👋, I'm Arijeet Kumar Das
+<h1 align="center">Hi 👋, I'm Arijeet Kumar Das</h1>
 
-### MCA Student | Full-Stack Developer | AI/ML Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Building+Scalable+AI+Applications;React+%7C+Node.js+%7C+FastAPI+%7C+RAG;Always+Learning+New+Things" />
+</p>
 
-📍 Bengaluru, India  
-🎓 MCA @ B.M.S College of Engineering (CGPA: 8.73/10)  
-🚀 Building scalable AI-powered web applications and modern full-stack systems  
-💡 Passionate about RAG systems, AI SaaS products, and real-world problem solving  
+<p align="center">
+  MCA Student @ B.M.S College of Engineering • Full-Stack Developer • AI/ML Enthusiast
+</p>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/arijeet-kumar-das">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-# 🌐 Portfolio & Profiles
+  <a href="https://github.com/Arijeet-Kumar-Das">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
-- 🌍 Portfolio: https://arijeet-kumar-das.vercel.app
-- 💼 LinkedIn: https://linkedin.com/in/arijeet-kumar-das
-- 💻 GitHub: https://github.com/Arijeet-Kumar-Das
-- 📧 Email: dasarijeetkumar@gmail.com
-
----
-
-# 🚀 Tech Stack
-
-## 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+  <a href="mailto:dasarijeetkumar@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
-## 🎨 Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+# 🚀 About Me
+
+- 🎓 MCA Student at **B.M.S College of Engineering**
+- 💻 Full-stack developer focused on scalable web applications
+- 🤖 Passionate about AI systems, RAG pipelines, NLP, and SaaS products
+- 🌱 Currently exploring advanced AI engineering and production-grade architectures
+- 📍 Bengaluru, India
 
 ---
 
-## ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
+# 🌐 Portfolio
+
+- 🔗 Portfolio:  
+  https://arijeet-kumar-das.vercel.app
+
+- 💼 LinkedIn:  
+  https://linkedin.com/in/arijeet-kumar-das
+
+- 💻 GitHub:  
+  https://github.com/Arijeet-Kumar-Das
 
 ---
 
-## 🧠 AI / ML
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![Pinecone](https://img.shields.io/badge/Pinecone-black?style=for-the-badge)
-![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-black?style=for-the-badge&logo=scikitlearn)
+# ⚡ Tech Stack
 
----
-
-## 🛢 Databases
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,mongodb,mysql,postgres,python,javascript,typescript,tailwind,docker,git,github,vscode,postman" />
+</p>
 
 ---
 
 # 🌟 Featured Projects
 
 ## 🔹 HA-RAG — Hybrid Adaptive Retrieval-Augmented Generation System
-Production-grade AI document chat platform using OpenAI embeddings, Pinecone vector database, semantic retrieval, verification layers, caching, and JWT authentication.
+
+Production-grade AI document chat system built using hybrid RAG architecture with OpenAI embeddings, Pinecone vector database, semantic retrieval, caching, JWT authentication, and verification layers.
 
 ### 🔧 Tech Used
 React.js • Node.js • Express.js • OpenAI API • Pinecone • JWT • Cloudinary
 
-🔗 GitHub Repo:  
+🔗 GitHub Repo  
 https://github.com/Arijeet-Kumar-Das/ha-rag-system
 
 ---
 
 ## 🔹 CIRA — Contract Intelligence & Risk Analyzer
-AI-powered SaaS platform that analyzes legal contracts using OCR, NLP pipelines, stylometry analysis, and AI-driven clause recommendations.
+
+AI-powered SaaS platform for legal contract analysis using OCR, NLP pipelines, stylometry analysis, and AI-driven clause recommendations.
 
 ### 🔧 Tech Used
-FastAPI • React.js • PostgreSQL • NLP • OCR • AI Risk Scoring
+FastAPI • React.js • PostgreSQL • OCR • NLP • AI Risk Scoring
 
-🔗 GitHub Repo:  
+🔗 GitHub Repo  
 https://github.com/Arijeet-Kumar-Das/cira-contract-intelligence
 
 ---
 
 ## 🔹 AI-Powered College Assistant
-Full-stack academic assistant with role-based access control, NLP intent classification, and LLM-powered academic query handling.
+
+Full-stack academic assistant with NLP-based intent classification, role-based access control, JWT authentication, and LLM-powered academic query handling.
 
 ### 🔧 Tech Used
 React.js • Node.js • MongoDB • JWT • NLP • LLM Integration
 
-🔗 GitHub Repo:  
+🔗 GitHub Repo  
 https://github.com/Arijeet-Kumar-Das/AI-Powered-College-assistant-
 
 ---
 
 ## 🔹 Dialysis Session Dashboard
-Healthcare dashboard for monitoring dialysis sessions, detecting anomalies, and supporting real-time patient monitoring workflows.
+
+Healthcare monitoring dashboard designed for tracking dialysis sessions, detecting clinical anomalies, and supporting real-time monitoring workflows.
 
 ### 🔧 Tech Used
 TypeScript • React.js • Dashboard Analytics
@@ -107,9 +108,9 @@ TypeScript • React.js • Dashboard Analytics
 📅 Feb 2026 – Present
 
 - Building CIRA (Contract Intelligence & Risk Analyzer)
-- Working on OCR → NLP → Risk Detection pipelines
-- Developing explainable AI dashboards
+- Developing OCR → NLP → Risk Detection pipelines
 - Implementing async background task processing
+- Designing explainable AI dashboards
 
 ---
 
@@ -122,28 +123,33 @@ TypeScript • React.js • Dashboard Analytics
 
 ---
 
+## Software Engineer Intern — Geekworkx Technologies
+📅 Jan 2023 – Jun 2023
+
+- Developed Restaurant POS applications
+- Integrated real-time order notifications
+- Built invoice generation and inventory systems
+
+---
+
 # 🏆 Achievements
 
-🥈 2nd Prize — Hack-The-Work 2025 Hackathon  
-📜 Scrum Fundamentals Certified (SFC)  
-🚀 Built and deployed multiple full-stack AI projects with live demos
+- 🥈 2nd Prize — Hack-The-Work 2025 Hackathon
+- 📜 Scrum Fundamentals Certified (SFC)
+- 🚀 Built and deployed multiple AI-powered full-stack projects
 
 ---
 
-# 📈 GitHub Stats
+# 📫 Contact Me
+
+📧 dasarijeetkumar@gmail.com
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arijeet-Kumar-Das&show_icons=true&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=Arijeet-Kumar-Das&label=Profile+Views&color=blue&style=flat" />
 </p>
----
-
-# 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijeet-Kumar-Das&layout=compact&theme=tokyonight" />
+  ⭐ Always building and learning new things
 </p>
----
-
-# ⚡ Fun Fact
-
-I enjoy building AI-powered systems that solve real-world problems and combine full-stack engineering with intelligent automation.
