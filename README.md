@@ -103,6 +103,11 @@ Healthcare monitoring dashboard designed for tracking dialysis sessions, detecti
 ### 🔧 Tech Used
 TypeScript • React.js • Dashboard Analytics
 
+### 🔗 Links
+- Live Demo: https://dialysisanalyzer.vercel.app/
+- GitHub Repo: https://github.com/Arijeet-Kumar-Das/dialysis-session-dashboard
+
+
 ---
 
 # 💼 Experience
