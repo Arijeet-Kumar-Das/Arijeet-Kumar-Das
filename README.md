@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arijeet Kumar Das</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Building+Scalable+AI+Applications;React+%7C+Node.js+%7C+FastAPI+%7C+RAG;Always+Learning+New+Things" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Building+Scalable+AI+Applications;React+%7C+Node.js+%7C+FastAPI+%7C+RAG;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -65,8 +65,9 @@ Production-grade AI document chat system built using hybrid RAG architecture wit
 ### 🔧 Tech Used
 React.js • Node.js • Express.js • OpenAI API • Pinecone • JWT • Cloudinary
 
-🔗 GitHub Repo  
-https://github.com/Arijeet-Kumar-Das/ha-rag-system
+### 🔗 Links
+- Live Demo: https://ha-rag-system.vercel.app/
+- GitHub Repo: https://github.com/Arijeet-Kumar-Das/ha-rag-system
 
 ---
 
@@ -89,8 +90,9 @@ Full-stack academic assistant with NLP-based intent classification, role-based a
 ### 🔧 Tech Used
 React.js • Node.js • MongoDB • JWT • NLP • LLM Integration
 
-🔗 GitHub Repo  
-https://github.com/Arijeet-Kumar-Das/AI-Powered-College-assistant-
+### 🔗 Links
+- Live Demo: https://ai-powered-college-assistant-b3w1-n0tzxu8er.vercel.app/
+- GitHub Repo: https://github.com/Arijeet-Kumar-Das/AI-Powered-College-assistant-
 
 ---
 
